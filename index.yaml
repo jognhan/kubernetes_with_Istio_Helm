@@ -3,22 +3,12 @@ entries:
   Istio_k8sGateway_Shop:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-12T08:22:55.930070373Z"
+    created: "2024-03-12T08:55:11.959101055Z"
     description: A Helm chart for Kubernetes
-    digest: 01ba647b6c4cba60c97328aa39a41d9fb001d880c77768a539b5de55ae0972e8
+    digest: 4b18d853b92da233c9d3fcccecdbc64a081ba7281a03cd9a5aa7e646110898b7
     name: Istio_k8sGateway_Shop
     type: application
     urls:
     - Istio_k8sGateway_Shop-0.1.0.tgz
     version: 0.1.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-03-12T08:22:55.931119586Z"
-    description: A Helm chart for Kubernetes
-    digest: 3e128caad81bdfc64b36d949aada107a79659f9287f3bb91ddaf2e0c373f75db
-    name: Istio_k8sGateway_Shop
-    type: application
-    urls:
-    - Manifest_for_PRD/Istio_k8sGateway_Shop-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-03-12T08:22:55.928630033Z"
+generated: "2024-03-12T08:55:11.957243663Z"
